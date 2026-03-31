@@ -33,5 +33,6 @@ Outside of my role, I love exploring how technology, coaching, and storytelling 
 ✉️ [Email](mailto:dan@danarel.com)  
 🐦 [Twitter](https://www.x.com/danarel)  
 🦋 [Bluesky](https://bsky.app/profile/danarel.com)  
+🐘 [Mastodon](https://hachyderm.io/@danarel) 
 💼 [LinkedIn](https://www.linkedin.com/in/danarel)
 
