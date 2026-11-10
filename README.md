@@ -4,9 +4,10 @@
 
 **Communications strategist · Writer · Hockey coach · Buddhist**
 
-I turn ideas into stories, stories into connection, and connection into action.
+Writing about the things that shape us, the ideas that challenge us, and the work that connects us.
 
 [![Website](https://img.shields.io/badge/Website-danarel.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.danarel.com)
+[![Substack](https://img.shields.io/badge/Substack-Read_my_writing-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://danarel.substack.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/danarel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danarel)
 
@@ -20,16 +21,17 @@ I'm a Director of Communications at a California labor union, with more than 12 
 
 Outside of work, I'm a writer, hockey coach, and Buddhist practitioner. I've authored two books and written for publications including *TIME*, *Salon*, and *HuffPost*. On my [Substack](https://danarel.substack.com), I explore Buddhism, philosophy, mindfulness, and the intersection of personal practice and social change.
 
-## What I care about
+## What matters to me
 
-- **Good communication:** clear stories, meaningful connection, real-world impact
-- **Coaching:** helping people and teams grow
-- **Writing:** leadership, practice, and the ideas that shape how we live
-- **Hockey:** the game, the people, and everything we learn along the way
+- **Communication:** Making complex ideas accessible and helping people find their voices.
+- **Leadership:** Building trust, developing people, and creating environments where others can succeed.
+- **Buddhist practice:** Exploring compassion, impermanence, and how ancient teachings apply to modern life.
+- **Hockey:** Coaching, mentoring, and helping young athletes grow as players and people.
 
 ## Around the web
 
-- 🌐 [danarel.com](https://www.danarel.com)
+- 🌐 [Website](https://www.danarel.com)
+- ✍️ [Substack](https://danarel.substack.com)
 - 🦋 [Bluesky](https://bsky.app/profile/danarel.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danarel)
 - ✉️ [Email](mailto:dan@danarel.com)
