@@ -16,9 +16,9 @@ I turn ideas into stories, stories into connection, and connection into action.
 
 ## A little about me
 
-I'm a Director of Communications at a California labor union. For 12+ years, I've worked across campaign strategy, digital organizing, press outreach, and member communications—helping people make their voices heard and move things forward.
+I'm a Director of Communications at a California labor union, with more than 12 years of experience in strategic communications, digital organizing, public relations, and advocacy. My work focuses on building effective campaigns, amplifying voices, and using communications to drive meaningful change.
 
-Away from the day job, I'm a hockey coach and writer. I create coaching content with **The Coaches Site** and **The Hockey Think Tank**, and I'm working on long-form writing, including a book. I'm also a Buddhist, exploring practice and contemplative life through a newsletter.
+Outside of work, I'm a writer, hockey coach, and Buddhist practitioner. I've authored two books and written for publications including *TIME*, *Salon*, and *HuffPost*. On my [Substack](https://danarel.substack.com), I explore Buddhism, philosophy, mindfulness, and the intersection of personal practice and social change.
 
 ## What I care about
 
